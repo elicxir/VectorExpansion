@@ -1,0 +1,9 @@
+{
+  "name": "com.elicxir.vector",
+  "version": "1.0.0",
+  "displayName": "VectorExpansion",
+  "description": "Utilities for Vector",
+  "author": {
+    "name": "ELICXIR"
+  }
+}
